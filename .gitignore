@@ -1,6 +1,6 @@
 zig-cache
 out
-zigmod*
+zigmod.lock
 .zigmod
 deps.zig
 docs

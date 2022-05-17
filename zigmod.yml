@@ -1,0 +1,9 @@
+id: qf5pfqq264pqg31gfbbtrk1e1eahvn0rzjd6ckw719ofmt28
+name: matrix-client-zig
+main: src/lib.zig
+license: MIT
+description: A work in progress matrix client-server API library
+dependencies:
+  - src: git https://github.com/truemedian/zfetch
+root_dependencies:
+  - src: git https://github.com/truemedian/zfetch
