@@ -1,0 +1,6 @@
+zig-cache
+out
+zigmod*
+.zigmod
+deps.zig
+docs
